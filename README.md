@@ -22,7 +22,4 @@ Github repository:https://github.com/jisha-christopher/OIBSIP-level-1-Task-3.git
 
 👩‍💻 Created by: Jisha
 
-Building these projects has strengthened my frontend fundamentals and boosted my confidence in creating interactive web applications. I’m excited to keep learning and building more!
 
-#WebDevelopment #FrontendDevelopment #HTML #CSS #JavaScript
-#InternshipExperience #LearningJourney #Projects #WebDesign
